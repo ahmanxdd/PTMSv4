@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">PTMSv4</string>
+
+
+    <string name="openDrawer">Open Drawer</string>
+
+    <string name="closeDrawer">Close Drawer</string>
+
+    <string name="app_name">PTMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_all_data">ViewAllData</string>
+    <string name="view_all_data_title">Select a Table</string>
+    <string name="search_title">Search Here</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_raymond_test">RaymondTestAct</string>
+    <string name="title_activity_init_component">InitComponent</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="select_a_product">Select a product</string>
+    <string name="select_a_company">Select a company</string>
+    <string name="contact">Contact:</string>
+    <string name="address">Address:</string>
+    <string name="call">Call</string>
+    <string name="productIssues_hints_to_do">##select a product to see previous problem</string>
+    <string name="problem">Problem</string>
+    <string name="request_date">Request Date</string>
+    <string name="job_no">Job No</string>
+    <string name="title_activity_action_drawer">Main</string>
+    <string name="title_activity_can_delte">CanDelte</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
 </resources>
